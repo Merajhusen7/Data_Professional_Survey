@@ -31,10 +31,10 @@ The goal is to turn raw survey data into a clean, single-page, decision-ready da
 
 | Metric | Value |
 |---|---|
-| 👥 Number of Participants | **261** |
-| 🎂 Average Age of Participants | **30.70 years** |
-| 😊 Happiness with Work-Life Balance | **6.38 / 10** |
-| 💰 Happiness with Salary | **5.00 / 10** |
+|  Number of Participants | **261** |
+|  Average Age of Participants | **30.70 years** |
+|  Happiness with Work-Life Balance | **6.38 / 10** |
+|  Happiness with Salary | **5.00 / 10** |
 
 - **Top Participant Countries:** United States, Canada, India, United Kingdom, and Others
 - **Highest Paying Role:** Data Scientist, followed by Data Engineer and Data Architect
@@ -43,7 +43,7 @@ The goal is to turn raw survey data into a clean, single-page, decision-ready da
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 ```
 Data_Professional_Survey/
@@ -55,7 +55,7 @@ Data_Professional_Survey/
 
 ---
 
-## 🛠️ Tools & Technologies Used
+##  Tools & Technologies Used
 
 - **Power BI Desktop** — dashboard design & visualization
 - **Power Query** — data cleaning & transformation
@@ -63,19 +63,19 @@ Data_Professional_Survey/
 
 ---
 
-## 📊 Dashboard Features
+##  Dashboard Features
 
-- 🗺️ **Participants Country** breakdown (tree map)
-- 📈 **Average Salary by Job Title** (horizontal bar chart, filterable by Job Title)
-- 💻 **Favorite Programming Language** by Job Title (stacked column chart)
-- ⚖️ **Average Salary by Sex** (donut chart)
-- 🎯 **KPI Cards** for total participants and average age
-- ⏱️ **Gauge Charts** for happiness with work-life balance and salary
-- 🔎 Interactive **slicers/filters** for cross-filtering all visuals by Job Title
+-  **Participants Country** breakdown (tree map)
+-  **Average Salary by Job Title** (horizontal bar chart, filterable by Job Title)
+-  **Favorite Programming Language** by Job Title (stacked column chart)
+-  **Average Salary by Sex** (donut chart)
+-  **KPI Cards** for total participants and average age
+-  **Gauge Charts** for happiness with work-life balance and salary
+-  Interactive **slicers/filters** for cross-filtering all visuals by Job Title
 
 ---
 
-## 🚀 How to Use This Dashboard
+##  How to Use This Dashboard
 
 1. **Clone or download** this repository:
    ```bash
@@ -97,15 +97,15 @@ Data_Professional_Survey/
 
 ---
 
-## 🙋‍♂️ Author
+##  Author
 
 **Meraj Husen**
 🔗 GitHub: [@Merajhusen7](https://github.com/Merajhusen7)
 
-If you found this project useful or interesting, consider giving the repo a ⭐!
+If you found this project useful or interesting, consider giving the repo a !
 
 ---
 
-## 📄 License
+##  License
 
 This project is open-source and available for learning and portfolio purposes. Feel free to fork and build on it.
